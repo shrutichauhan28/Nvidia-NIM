@@ -48,7 +48,7 @@ Questions:{input}
 )
 
 
-prompt1=st.text_input("Enter Your Question From Doduments")
+prompt1=st.text_input("Enter Your Question From Documents")
 
 
 if st.button("Documents Embedding"):
